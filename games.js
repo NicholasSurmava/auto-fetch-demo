@@ -1,0 +1,1 @@
+let games = ['ratchet and clank', 'red dead redemption', 'red dead redemption 2', 'project skyrise', 'cities skylines', 'civilization vi'];
